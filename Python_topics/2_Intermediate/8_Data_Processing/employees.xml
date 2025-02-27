@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<employees><employee id="1"><name>Alice</name><age>25</age><city>New York</city></employee><employee id="2"><name>Bob</name><age>30</age><city>Los Angeles</city></employee></employees>
